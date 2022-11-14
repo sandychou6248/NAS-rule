@@ -1,4 +1,5 @@
-# NAS規範
+# NAS規範 
+Aimmlab NAS 規範
 
 ## NAD 使用說明  
 1. 本實驗是 Nas 主要用來存放datasets
