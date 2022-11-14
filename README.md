@@ -14,14 +14,14 @@ https://docs.google.com/spreadsheets/d/1YrVrQSeD-RFwq54jbCF6XOtoYC_dBs6TPGXBJXFI
 
 ## NAS 所在位置
 * 使用者在server上的帳號皆位於 /mnt/data0/usernamexxx，而NAS資料夾位於和前述的mnt資料夾同一層級的位置
-* 因次使用者切換路徑用以下指令: ../../../nas ， 即可找到nas資料夾
+* 因次使用者須切換路徑用以下指令: ../../../nas ， 即可找到nas資料夾
 
 ## Note 
 1. Server一個帳號不得超過 100 G ( master ac可到 300G)，指的是SSD ; 換言之帳號未超過容量, 可以不用放NAS。  
 2. 欲上傳之dataset 請以 zip format  
 
 ## NAS Rules  
-1.由於Queue 為公用資料夾請勿更改他人資料  
+1.由於Queue為公用資料夾請勿更改他人資料  
 2.請申請再將datasets 放置Queue，若申請單上沒有該筆對應資料，則由管理員直接移除
 
 
